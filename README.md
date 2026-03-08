@@ -40,3 +40,15 @@ Tools:
 
 - Add domain attack simulations
 - Practice privilege escalation detection
+
+- resolve domain names to IP addresses
+
+allow clients to locate the domain controller
+
+support Active Directory authentication
+
+It works together with:
+
+Active Directory
+
+Windows Server
